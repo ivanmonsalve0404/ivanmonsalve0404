@@ -8,9 +8,7 @@ I'm a software developer from [Colombia](https://www.youtube.com/watch?v=CMOoy77
 Angular - React | CSS - TailwindCSS | NodeJS - NestJS | Javascript - Typescript | Java - SpringBoot | SQL - NoSQL; Scrum | Git/Github | Trello/Slack | API REST | Microservices - Design Patterns | Docker.
 
 ## 📊 Stats
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivanmonsalve0404&theme=tokyonight)](https://git.io/streak-stats)
-
 
 
 ## 🔗 Links
