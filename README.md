@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**ivanmonsalve0404/ivanmonsalve0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Iván Monsalve! 👋
 
-Here are some ideas to get you started:
+I'm a software developer from [Colombia](https://www.youtube.com/watch?v=CMOoy776Pm4&t=18s) with over 2 years of experience in the design, development, and implementation of software 🚀. I have led projects using the agile Scrum methodology, aligning them with business objectives 🎯. I leverage various modern technologies of Frontend 🌐, Backend ⚙️, and Databases 🗄️, focusing on delivering results with a guarantee of quality ✅, scalability 📊, and an outstanding user experience 🌟.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+Angular - React | CSS - TailwindCSS | NodeJS - NestJS | Javascript - Typescript | Java - SpringBoot | SQL - NoSQL; Scrum | Git/Github | Trello/Slack | API REST | Microservices - Design Patterns | Docker.
+
+## 📊 Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivanmonsalve0404&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ivanmonsalve0404&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ivanmonsalve0404/github-readme-stats#gh-dark-mode-only)
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-FFFF00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ivanmonsalve0404)
+[![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://linkedin.com/in/iván-andrés-monsalve-vega-338200225)
+[![twitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ivanmonsalve_04/)
+
